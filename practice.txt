@@ -1,3 +1,3 @@
 hello git
-Day 02
-restert
+second edit.
+プルリクエストの練習
